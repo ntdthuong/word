@@ -2,20 +2,14 @@
   "books": [
     {
       "_id": "59294d4d8bde620004e498e2",
-      "shortDescription": "<p>Mời bạn đón đọc.</p>",
-      "fullDescription": "<p>Mời bạn đón đọc.</p>",
       "title": "Những Gam Màu Hồi Sinh",
       "author": "Lê Hữu Nam",
       "publisher": "Nxb Trẻ",
-      "pages": 180,
-      "weight": 176,
       "sku": "BOOKT2",
       "previousPrice": 181000,
       "sellingPrice": 140000,
       "releaseDate": "2017-05-16T17:00:00.000Z",
       "__v": 0,
-      "comments": [],
-      "createDate": "2017-05-27T09:56:29.807Z",
       "images": {
         "main": "https://www.vinabook.com/images/thumbnails/product/240x/207173_p67792mbt.jpg"
       },
@@ -36,39 +30,10 @@
       "pages": 285,
       "weight": 285,
       "sku": "2431864615280",
-      "shortDescription": "<p>Mời bạn đón đọc.</p>",
-      "fullDescription": "<p>Mời bạn đón đọc.</p>",
       "previousPrice": 70000,
       "sellingPrice": 56000,
       "__v": 0,
       "releaseDate": "2016-08-14T17:00:00.000Z",
-      "comments": [
-        {
-          "_id": "5925169cb8c4720004612da9",
-          "rate": 4,
-          "commentBody": "Đáng đọc!~",
-          "_user": {
-            "_id": "591d96fce47ff8000402e897",
-            "name": "Như Dương",
-            "email": "dbnhu3010@gmail.com",
-            "avatarUrl": "https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/13731128_171347419949403_398500225_n.jpg?ig_cache_key=MTI5NzU3ODQ0ODIyMzIwOTU0OA%3D%3D.2"
-          },
-          "createdDate": "2017-05-24T05:14:04.389Z"
-        },
-        {
-          "_user": {
-            "_id": "5929475a9601980004d78e7a",
-            "name": "NhanHo",
-            "email": "alexkid1943@gmail.com",
-            "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIz8C4jJHYD_8hAX9bmE8zvVRONrdSYZKUQA1s52a3ImWcOsb"
-          },
-          "commentBody": "1234567",
-          "rate": 2,
-          "_id": "592947929601980004d78e7b",
-          "createdDate": "2017-05-27T09:32:02.481Z"
-        }
-      ],
-      "createDate": "2017-05-17T09:05:48.745Z",
       "images": {
         "main": "https://www.vinabook.com/images/thumbnails/product/240x/234109_p71761mimg336.jpg"
       },
@@ -86,8 +51,6 @@
       "title": "Mặc Kệ Thiên Hạ - Sống Như Người Nhật",
       "author": "Mari Tamagawa",
       "publisher": "Nxb Hà Nội",
-      "shortDescription": "<p>Mời bạn đón đọc.</p>",
-      "fullDescription": "<p>Mời bạn đón đọc.</p>",
       "pages": 192,
       "weight": 220,
       "releaseDate": "2017-03-26T17:00:00.000Z",
@@ -95,20 +58,6 @@
       "previousPrice": 79000,
       "sellingPrice": 63000,
       "__v": 0,
-      "comments": [
-        {
-          "_id": "59252f0ab8c4720004612daf",
-          "commentBody": "hay dau ma hay",
-          "_user": {
-            "_id": "591d9f3ee47ff8000402e89d",
-            "email": "thienphuoc237@gmail.com",
-            "name": "Thiên Phước",
-            "avatarUrl": "https://scontent.fsgn3-1.fna.fbcdn.net/v/t31.0-8/17240424_1493132380698013_1383281174714678540_o.jpg?oh=d5496fc22d3d8ba08322c45d02e41383&oe=59A4BCD9"
-          },
-          "createdDate": "2017-05-24T06:58:18.350Z"
-        }
-      ],
-      "createDate": "2017-05-17T09:42:42.555Z",
       "images": {
         "main": "https://www.vinabook.com/images/thumbnails/product/240x/249576_p73948mmacke.jpg"
       },
