@@ -1,20 +1,18 @@
 import React, { Component } from 'react';
-import {FormCreateWord} from './WordForm';
-import {WordFilter} from './WordFilter';
-import {Words} from './Words';
+import {WordList} from './WordList';
+import { Provider } from 'react-redux';
+import {store} from './redux/store';
 // import logo from './logo.svg';
 import './App.css';
 
-class App extends Component {
+export class App extends Component {
   render() {
     return (
-      <div className="App" style={{maxWidth: '767px', margin: 'auto'}}>
-        <FormCreateWord />
-        <WordFilter />
-        <Words />
+      <div className="App">
+        <Provider store={store}>
+          <WordList />
+        </Provider>
       </div>
     );
   }
 }
-
-export default App;

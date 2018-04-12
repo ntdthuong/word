@@ -1,19 +1,50 @@
 .App {
   text-align: center;
+  max-width: 767px;
+  margin: auto;
+  padding: 1rem;
 }
-.segments.word {
-  border: none;
-  box-shadow: none;
-}
+
 .word .segment {
   font-weight: bold;
 }
-.word .ui.horizontal.segments>.segment{
-  border: none;
-}
+
 .word .segment:nth-child(2n){
   color: red;
 }
+
 .word .segment:nth-child(2n + 1){
   color: green;
+}
+
+.word .ui.horizontal.segments {
+  border: 1px solid rgba(34,36,38,.15);
+  box-shadow: 0 1px 2px 0 rgba(34,36,38,.15);
+  margin: 1rem 0;
+}
+
+.word .ui.segment {
+  padding: 0;
+  width: 50%;
+}
+
+.word .text {
+  padding: .6rem;
+}
+.header > * {
+  width: 50%;
+}
+.header .ui.button {
+  margin: 0;
+}
+@media screen and ( max-width: 480px) {
+  .header .ui.selection.dropdown {
+    display: block;
+  }
+  .header > * {
+    width: 100%;
+  }
+  .header .dropdown {
+    margin-top: 1rem;
+  }
 }
